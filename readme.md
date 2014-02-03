@@ -1,3 +1,24 @@
+Laravel 4 Projects - Contacts List and Simple Blog using Bootstrap
+
+Contacts List CRUD
+All relevant files are listed in the contacts folders or labeled as the contacts prefix:
+
+-app/routes.php
+-app/controllers/ContactsController.php
+-app/models/Contacts.php
+-app/database/migrations/contacts
+-app/views/contacts
+
+
+Simple Blog CRUD
+-app/routes.php
+-app/controllers/PostController.php
+-app/models/Post.php
+-app/database/migrations/2014_02_02_060955_create_posts_table.php
+-app/views/posts
+-app/views/posts/partials
+
+
 ## Laravel PHP Framework
 
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
